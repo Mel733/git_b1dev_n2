@@ -30,6 +30,13 @@
 ![texte descriptif de l'image](https://www.digital-campus.fr/sites/all/themes/digital_campus/img/logos/logo-digital-campus-dark.svg)
 
 ---
-' '
-" "
-``
+
+```html
+<!DOCTYPE html>
+<html><html>
+```
+
+```javascript
+console.log("Hello, world");
+```
+
