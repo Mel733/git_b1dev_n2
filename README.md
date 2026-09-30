@@ -10,4 +10,7 @@
 
 **Chaine en gras**
 *chaine en italique*
---texte barré--
+~~texte barré~~
+
+
+---
