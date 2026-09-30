@@ -14,3 +14,22 @@
 
 
 ---
+[lien vers OpenIA](https://www.openai.com)
+[lien vers Google](https://www.google.com)
+
+> citation
+> suite de la citation
+> > citation imbriquée
+> > suite de la citation imbriqué 
+
+| Colonne 1 | Colonne 2 |
+|-----------|-----------|
+| Contenue 1| Contenue 2|
+| Contenue 3| Contenue 3|
+
+![texte descriptif de l'image](https://www.digital-campus.fr/sites/all/themes/digital_campus/img/logos/logo-digital-campus-dark.svg)
+
+---
+' '
+" "
+``
